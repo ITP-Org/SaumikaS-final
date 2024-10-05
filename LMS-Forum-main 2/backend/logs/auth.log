@@ -1,0 +1,18 @@
+2024-08-27T10:19:45.274Z - Login attempt for username: admin
+2024-08-27T10:19:45.385Z - Login successful for username: admin, token generated
+2024-08-27T10:23:52.357Z - Login attempt for username: admin
+2024-08-27T10:23:52.467Z - Login successful for username: admin, token generated
+2024-09-19T06:19:35.541Z - Login attempt for username: admin
+2024-09-19T06:19:35.656Z - Login successful for username: admin, token generated
+2024-09-19T06:21:46.043Z - Login attempt for username: admin
+2024-09-19T06:21:46.162Z - Login successful for username: admin, token generated
+2024-09-19T07:16:44.636Z - Login attempt for username: warsha
+2024-09-19T07:16:44.641Z - Login failed for username: warsha
+2024-09-19T07:16:58.694Z - Login attempt for username: warsha
+2024-09-19T07:16:58.697Z - Login failed for username: warsha
+2024-09-19T07:18:05.840Z - Login attempt for username: warsha
+2024-09-19T07:18:05.845Z - Login failed for username: warsha
+2024-09-19T07:18:31.008Z - Login attempt for username: admin
+2024-09-19T07:18:31.122Z - Login successful for username: admin, token generated
+2024-09-19T07:19:00.270Z - Login attempt for username: Warsha
+2024-09-19T07:19:00.386Z - Login successful for username: Warsha, token generated
